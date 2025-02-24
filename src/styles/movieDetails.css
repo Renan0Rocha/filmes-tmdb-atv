@@ -1,0 +1,13 @@
+.movie-details {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .movie-details img {
+    width: 300px;
+  }
+  
+  .error {
+    color: red;
+  }
+  
